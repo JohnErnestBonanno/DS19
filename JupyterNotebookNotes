@@ -1,0 +1,29 @@
+Jupyter Notebook
+
+Edit Mode
+-green cell border
+-can type into cell like normal text editor
+
+
+Command Mode
+-gray boarder + blue left margin
+-can edit notebook as a whole, but not individual cells
+
+To edit mode -> command mode use ESC
+
+Common Shorcuts
+	Basic navigation: enter, shift-enter, up/k, down/j
+	Saving the notebook: s
+	Change Cell types: y, m, 1-6, t
+	Cell creation: a, b
+	Cell editing: x, c, v, d, z
+	Kernel operations: i, 0 (press twice)
+
+Running Cells
+	Current Cell: CONTRL + Enter
+	Cell Below: Command + Enter
+
+Use Tab
+	To autocomplete different functions (tabbing "sort" will give you either sort_values or sort_index)
+	Hold Shift + Tab to see the arguments you can pass a function within Jupyter notebook
+	
