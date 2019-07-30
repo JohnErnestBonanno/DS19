@@ -1,0 +1,25 @@
+Git Basics
+
+Initial Git
+	git init
+
+Check Status
+	git status
+	(what has been changed, what hasn't what needs to be added)
+
+Add to the staging environment
+	git add <filename>
+	git add . #adds everything
+
+Make the commitment
+	git commit -m "Track your message here"
+	Something I actually need to get better at
+
+Push to GitHub
+	…or push an existing repository from the command line
+	git remote add origin https://github.com/JohnErnestBonanno/DS19.git
+	git push -u origin master
+
+Pull Changes on Master Branch
+	git pull origin master
+
